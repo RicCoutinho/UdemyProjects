@@ -1,0 +1,10 @@
+D:\Projetos\Visua Studio Community\FirstProject\ExercicioFixacao3\bin\Debug\netcoreapp2.2\ExercicioFixacao3.deps.json
+D:\Projetos\Visua Studio Community\FirstProject\ExercicioFixacao3\bin\Debug\netcoreapp2.2\ExercicioFixacao3.runtimeconfig.json
+D:\Projetos\Visua Studio Community\FirstProject\ExercicioFixacao3\bin\Debug\netcoreapp2.2\ExercicioFixacao3.runtimeconfig.dev.json
+D:\Projetos\Visua Studio Community\FirstProject\ExercicioFixacao3\bin\Debug\netcoreapp2.2\ExercicioFixacao3.dll
+D:\Projetos\Visua Studio Community\FirstProject\ExercicioFixacao3\bin\Debug\netcoreapp2.2\ExercicioFixacao3.pdb
+D:\Projetos\Visua Studio Community\FirstProject\ExercicioFixacao3\obj\Debug\netcoreapp2.2\ExercicioFixacao3.csproj.CoreCompileInputs.cache
+D:\Projetos\Visua Studio Community\FirstProject\ExercicioFixacao3\obj\Debug\netcoreapp2.2\ExercicioFixacao3.AssemblyInfoInputs.cache
+D:\Projetos\Visua Studio Community\FirstProject\ExercicioFixacao3\obj\Debug\netcoreapp2.2\ExercicioFixacao3.AssemblyInfo.cs
+D:\Projetos\Visua Studio Community\FirstProject\ExercicioFixacao3\obj\Debug\netcoreapp2.2\ExercicioFixacao3.dll
+D:\Projetos\Visua Studio Community\FirstProject\ExercicioFixacao3\obj\Debug\netcoreapp2.2\ExercicioFixacao3.pdb

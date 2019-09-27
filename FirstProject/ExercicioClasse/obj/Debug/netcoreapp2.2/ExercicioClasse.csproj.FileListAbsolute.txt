@@ -1,0 +1,10 @@
+D:\Projetos\Visua Studio Community\FirstProject\ExercicioClasse\obj\Debug\netcoreapp2.2\ExercicioClasse.csproj.CoreCompileInputs.cache
+D:\Projetos\Visua Studio Community\FirstProject\ExercicioClasse\obj\Debug\netcoreapp2.2\ExercicioClasse.AssemblyInfoInputs.cache
+D:\Projetos\Visua Studio Community\FirstProject\ExercicioClasse\obj\Debug\netcoreapp2.2\ExercicioClasse.AssemblyInfo.cs
+D:\Projetos\Visua Studio Community\FirstProject\ExercicioClasse\bin\Debug\netcoreapp2.2\ExercicioClasse.deps.json
+D:\Projetos\Visua Studio Community\FirstProject\ExercicioClasse\bin\Debug\netcoreapp2.2\ExercicioClasse.runtimeconfig.json
+D:\Projetos\Visua Studio Community\FirstProject\ExercicioClasse\bin\Debug\netcoreapp2.2\ExercicioClasse.runtimeconfig.dev.json
+D:\Projetos\Visua Studio Community\FirstProject\ExercicioClasse\bin\Debug\netcoreapp2.2\ExercicioClasse.dll
+D:\Projetos\Visua Studio Community\FirstProject\ExercicioClasse\bin\Debug\netcoreapp2.2\ExercicioClasse.pdb
+D:\Projetos\Visua Studio Community\FirstProject\ExercicioClasse\obj\Debug\netcoreapp2.2\ExercicioClasse.dll
+D:\Projetos\Visua Studio Community\FirstProject\ExercicioClasse\obj\Debug\netcoreapp2.2\ExercicioClasse.pdb

@@ -1,0 +1,11 @@
+D:\Projetos\Visua Studio Community\FirstProject\ConsoleApp1\bin\Debug\netcoreapp2.2\PrimeiroProjeto.deps.json
+D:\Projetos\Visua Studio Community\FirstProject\ConsoleApp1\bin\Debug\netcoreapp2.2\PrimeiroProjeto.runtimeconfig.json
+D:\Projetos\Visua Studio Community\FirstProject\ConsoleApp1\bin\Debug\netcoreapp2.2\PrimeiroProjeto.runtimeconfig.dev.json
+D:\Projetos\Visua Studio Community\FirstProject\ConsoleApp1\bin\Debug\netcoreapp2.2\PrimeiroProjeto.dll
+D:\Projetos\Visua Studio Community\FirstProject\ConsoleApp1\bin\Debug\netcoreapp2.2\PrimeiroProjeto.pdb
+D:\Projetos\Visua Studio Community\FirstProject\ConsoleApp1\obj\Debug\netcoreapp2.2\PrimeiroProjeto.csprojAssemblyReference.cache
+D:\Projetos\Visua Studio Community\FirstProject\ConsoleApp1\obj\Debug\netcoreapp2.2\PrimeiroProjeto.csproj.CoreCompileInputs.cache
+D:\Projetos\Visua Studio Community\FirstProject\ConsoleApp1\obj\Debug\netcoreapp2.2\PrimeiroProjeto.AssemblyInfoInputs.cache
+D:\Projetos\Visua Studio Community\FirstProject\ConsoleApp1\obj\Debug\netcoreapp2.2\PrimeiroProjeto.AssemblyInfo.cs
+D:\Projetos\Visua Studio Community\FirstProject\ConsoleApp1\obj\Debug\netcoreapp2.2\PrimeiroProjeto.dll
+D:\Projetos\Visua Studio Community\FirstProject\ConsoleApp1\obj\Debug\netcoreapp2.2\PrimeiroProjeto.pdb

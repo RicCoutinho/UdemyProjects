@@ -1,0 +1,11 @@
+D:\Projetos\Visua Studio Community\FirstProject\EcercicioInput\bin\Debug\netcoreapp2.2\EcercicioInput.deps.json
+D:\Projetos\Visua Studio Community\FirstProject\EcercicioInput\bin\Debug\netcoreapp2.2\EcercicioInput.runtimeconfig.json
+D:\Projetos\Visua Studio Community\FirstProject\EcercicioInput\bin\Debug\netcoreapp2.2\EcercicioInput.runtimeconfig.dev.json
+D:\Projetos\Visua Studio Community\FirstProject\EcercicioInput\bin\Debug\netcoreapp2.2\EcercicioInput.dll
+D:\Projetos\Visua Studio Community\FirstProject\EcercicioInput\bin\Debug\netcoreapp2.2\EcercicioInput.pdb
+D:\Projetos\Visua Studio Community\FirstProject\EcercicioInput\obj\Debug\netcoreapp2.2\EcercicioInput.csprojAssemblyReference.cache
+D:\Projetos\Visua Studio Community\FirstProject\EcercicioInput\obj\Debug\netcoreapp2.2\EcercicioInput.csproj.CoreCompileInputs.cache
+D:\Projetos\Visua Studio Community\FirstProject\EcercicioInput\obj\Debug\netcoreapp2.2\EcercicioInput.AssemblyInfoInputs.cache
+D:\Projetos\Visua Studio Community\FirstProject\EcercicioInput\obj\Debug\netcoreapp2.2\EcercicioInput.AssemblyInfo.cs
+D:\Projetos\Visua Studio Community\FirstProject\EcercicioInput\obj\Debug\netcoreapp2.2\EcercicioInput.dll
+D:\Projetos\Visua Studio Community\FirstProject\EcercicioInput\obj\Debug\netcoreapp2.2\EcercicioInput.pdb

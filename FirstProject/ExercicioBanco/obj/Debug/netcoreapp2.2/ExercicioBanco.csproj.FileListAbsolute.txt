@@ -1,0 +1,11 @@
+D:\Projetos\Visua Studio Community\FirstProject\ExercicioBanco\bin\Debug\netcoreapp2.2\ExercicioBanco.deps.json
+D:\Projetos\Visua Studio Community\FirstProject\ExercicioBanco\bin\Debug\netcoreapp2.2\ExercicioBanco.runtimeconfig.json
+D:\Projetos\Visua Studio Community\FirstProject\ExercicioBanco\bin\Debug\netcoreapp2.2\ExercicioBanco.runtimeconfig.dev.json
+D:\Projetos\Visua Studio Community\FirstProject\ExercicioBanco\bin\Debug\netcoreapp2.2\ExercicioBanco.dll
+D:\Projetos\Visua Studio Community\FirstProject\ExercicioBanco\bin\Debug\netcoreapp2.2\ExercicioBanco.pdb
+D:\Projetos\Visua Studio Community\FirstProject\ExercicioBanco\obj\Debug\netcoreapp2.2\ExercicioBanco.csproj.CoreCompileInputs.cache
+D:\Projetos\Visua Studio Community\FirstProject\ExercicioBanco\obj\Debug\netcoreapp2.2\ExercicioBanco.AssemblyInfoInputs.cache
+D:\Projetos\Visua Studio Community\FirstProject\ExercicioBanco\obj\Debug\netcoreapp2.2\ExercicioBanco.AssemblyInfo.cs
+D:\Projetos\Visua Studio Community\FirstProject\ExercicioBanco\obj\Debug\netcoreapp2.2\ExercicioBanco.dll
+D:\Projetos\Visua Studio Community\FirstProject\ExercicioBanco\obj\Debug\netcoreapp2.2\ExercicioBanco.pdb
+D:\Projetos\Visua Studio Community\FirstProject\ExercicioBanco\obj\Debug\netcoreapp2.2\ExercicioBanco.csprojAssemblyReference.cache

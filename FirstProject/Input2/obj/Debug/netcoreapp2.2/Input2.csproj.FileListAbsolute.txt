@@ -1,0 +1,11 @@
+D:\Projetos\Visua Studio Community\FirstProject\Input2\bin\Debug\netcoreapp2.2\Input2.deps.json
+D:\Projetos\Visua Studio Community\FirstProject\Input2\bin\Debug\netcoreapp2.2\Input2.runtimeconfig.json
+D:\Projetos\Visua Studio Community\FirstProject\Input2\bin\Debug\netcoreapp2.2\Input2.runtimeconfig.dev.json
+D:\Projetos\Visua Studio Community\FirstProject\Input2\bin\Debug\netcoreapp2.2\Input2.dll
+D:\Projetos\Visua Studio Community\FirstProject\Input2\bin\Debug\netcoreapp2.2\Input2.pdb
+D:\Projetos\Visua Studio Community\FirstProject\Input2\obj\Debug\netcoreapp2.2\Input2.csprojAssemblyReference.cache
+D:\Projetos\Visua Studio Community\FirstProject\Input2\obj\Debug\netcoreapp2.2\Input2.csproj.CoreCompileInputs.cache
+D:\Projetos\Visua Studio Community\FirstProject\Input2\obj\Debug\netcoreapp2.2\Input2.AssemblyInfoInputs.cache
+D:\Projetos\Visua Studio Community\FirstProject\Input2\obj\Debug\netcoreapp2.2\Input2.AssemblyInfo.cs
+D:\Projetos\Visua Studio Community\FirstProject\Input2\obj\Debug\netcoreapp2.2\Input2.dll
+D:\Projetos\Visua Studio Community\FirstProject\Input2\obj\Debug\netcoreapp2.2\Input2.pdb

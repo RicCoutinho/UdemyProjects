@@ -1,0 +1,11 @@
+D:\Projetos\Visua Studio Community\FirstProject\ExercicioEstatico\bin\Debug\netcoreapp2.2\ExercicioEstatico.deps.json
+D:\Projetos\Visua Studio Community\FirstProject\ExercicioEstatico\bin\Debug\netcoreapp2.2\ExercicioEstatico.runtimeconfig.json
+D:\Projetos\Visua Studio Community\FirstProject\ExercicioEstatico\bin\Debug\netcoreapp2.2\ExercicioEstatico.runtimeconfig.dev.json
+D:\Projetos\Visua Studio Community\FirstProject\ExercicioEstatico\bin\Debug\netcoreapp2.2\ExercicioEstatico.dll
+D:\Projetos\Visua Studio Community\FirstProject\ExercicioEstatico\bin\Debug\netcoreapp2.2\ExercicioEstatico.pdb
+D:\Projetos\Visua Studio Community\FirstProject\ExercicioEstatico\obj\Debug\netcoreapp2.2\ExercicioEstatico.csproj.CoreCompileInputs.cache
+D:\Projetos\Visua Studio Community\FirstProject\ExercicioEstatico\obj\Debug\netcoreapp2.2\ExercicioEstatico.AssemblyInfoInputs.cache
+D:\Projetos\Visua Studio Community\FirstProject\ExercicioEstatico\obj\Debug\netcoreapp2.2\ExercicioEstatico.AssemblyInfo.cs
+D:\Projetos\Visua Studio Community\FirstProject\ExercicioEstatico\obj\Debug\netcoreapp2.2\ExercicioEstatico.dll
+D:\Projetos\Visua Studio Community\FirstProject\ExercicioEstatico\obj\Debug\netcoreapp2.2\ExercicioEstatico.pdb
+D:\Projetos\Visua Studio Community\FirstProject\ExercicioEstatico\obj\Debug\netcoreapp2.2\ExercicioEstatico.csprojAssemblyReference.cache
